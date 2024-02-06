@@ -1,0 +1,18 @@
+{
+  "name": "account-kit-test",
+  "version": "1.0.0",
+  "description": "An Example Using Account Kit",
+  "main": "index.ts",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@alchemy/aa-accounts": "^*",
+    "@alchemy/aa-alchemy": "^*",
+    "@alchemy/aa-core": "^*",
+    "dotenv": "^16.4.1",
+    "viem": "^1.21.4"
+  }
+}
